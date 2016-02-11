@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexdiplomatic03zakrgoog_0008.png"; bbox 0 0 4476 6180; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 294 1468 2180 2195">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 294 1468 2180 2195">
+     <span class='ocr_line' id='line_1_1' title="bbox 294 1468 2180 2195; baseline 0.002 -411.29"><span class='ocrx_word' id='word_1_1' title='bbox 294 1544 881 2195; x_wconf 70' lang='lat' dir='ltr'>LKODEKS</span> <span class='ocrx_word' id='word_1_2' title='bbox 934 1576 1983 1876; x_wconf 74' lang='lat' dir='ltr'>DYPLOMATYCZNY</span> <span class='ocrx_word' id='word_1_3' title='bbox 2175 1468 2180 1478; x_wconf 61' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 825 2030 1491 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 825 2030 1491 2308">
+     <span class='ocr_line' id='line_1_2' title="bbox 825 2030 1491 2308; baseline 0.002 -3.248"><span class='ocrx_word' id='word_1_4' title='bbox 825 2030 1491 2308; x_wconf 87' lang='lat' dir='ltr'>WIELKOPOLSKI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 490 2818 1985 3272">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 490 2818 1985 3272">
+     <span class='ocr_line' id='line_1_3' title="bbox 490 2818 1985 3272; baseline 0.001 -202.05"><span class='ocrx_word' id='word_1_5' title='bbox 490 2868 881 3072; x_wconf 88' lang='lat' dir='ltr'>ODEX</span> <span class='ocrx_word' id='word_1_6' title='bbox 933 2872 1054 3074; x_wconf 89' lang='lat' dir='ltr'><strong>D</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1019 2875 1217 3074; x_wconf 87' lang='lat' dir='ltr'>IPL</span> <span class='ocrx_word' id='word_1_8' title='bbox 1239 2818 1985 3272; x_wconf 79' lang='lat' dir='ltr'>OMATICUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 654 3050 2179 5558">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 654 3050 2042 5172">
+     <span class='ocr_line' id='line_1_4' title="bbox 654 3050 2042 3600; baseline 0.005 -7.538"><span class='ocrx_word' id='word_1_9' title='bbox 654 3433 1074 3597; x_wconf 78' lang='lat' dir='ltr'>MAJOR</span> <span class='ocrx_word' id='word_1_10' title='bbox 1076 3436 1121 3596; x_wconf 92' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_11' title='bbox 1167 3438 1553 3600; x_wconf 84' lang='lat' dir='ltr'>POLONIAE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1981 3050 2042 3227; x_wconf 65' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1580 4732 2179 5558; baseline 0 -386"><span class='ocrx_word' id='word_1_13' title='bbox 1580 4732 2179 5558; x_wconf 91' lang='lat' dir='ltr'>L</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2250 6180">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2250 6180">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2250 6180; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2250 6180; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1895 5850 2044 5891">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1895 5850 2044 5891">
+     <span class='ocr_line' id='line_1_7' title="bbox 1895 5850 2044 5891; baseline 0 -16"><span class='ocrx_word' id='word_1_15' title='bbox 1895 5850 2044 5891; x_wconf 45' lang='lat' dir='ltr'>..fn-st..</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
